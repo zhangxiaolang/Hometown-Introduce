@@ -1,0 +1,132 @@
+#whole{
+	width: 1050px;
+	height: auto;
+	margin: 0 auto;
+	border: 0px solid;
+	}
+#head{
+	width: 1050px;
+	height: 75px;
+	margin: 0 auto;
+	border: 0px solid;
+	background-image: url("../IMG/hometown.jpg");
+	border-radius: 10px;
+}
+.head_left{
+	width: 450px;
+	height: 70px;
+	border-radius: 35px;
+	float: left;
+	border: 0px solid;
+	margin-left: 15px;
+}
+.head_img{
+	width: 70px;
+	height: 70px;
+	border-radius: 35px;
+	float: left;
+	border: 0px solid;
+}
+img.head{
+	width: 70px;
+	height: 70px;
+	border-radius: 35px;
+}
+#head_time{
+	width: 360px;
+	height: 40px;
+	float: right;
+	border: 0px solid;
+	font-size: 20px;
+	margin-top: 30px;
+	font-weight: bold;
+	font-family: 幼圆;
+	color: #F91212;
+}
+#title{
+	width: 1050px;
+	height: 50px;
+	margin: 0 auto;
+	margin-top: 10px;
+	border: 0px solid;
+	background-color: #679EDC;
+	border-radius: 10px;
+}
+.title_left{
+	width: 525px;
+	height: 50ps;
+	float: left;
+	border: 0px solid;
+	border-color: white;
+}
+.home_page{
+	width: 261px;
+	height: 50px;
+	float: left;
+	border: 1px solid;
+	border-color: white;
+	text-align: center;
+}
+.detail_introduce{
+	width: 260px;
+	height: 50px;
+	float: right;
+	border: 1px solid;
+	border-color: white;
+	text-align: center;
+}
+.title_right{
+	width: 525px;
+	height: 50ps;
+	float: right;
+	border: 0px solid;
+	border-color: white;
+}
+
+.specialty{
+	width: 260px;
+	height: 50px;
+	float: left;
+	border: 1px solid;
+	border-color: white;
+	text-align: center;
+}
+.personal_information{
+	width: 261px;
+	height: 50px;
+	float: right;
+	border: 1px solid;
+	border-color: white;
+	text-align: center;
+}
+font{
+	color: #3A76BF;
+	font-size: 30px;
+	font-family: 楷体;
+	line-height: 40px;
+}
+h2{
+	font-family: Arial;
+	color: #7F7B7B;
+	font-size: 20px;
+}
+a{
+	color: white;
+	font-size: 30px;
+	font-family: 楷体;
+	line-height: 45px;
+	text-decoration: none;
+}
+a:link{
+color:white;
+text-decoration:none;
+}
+a:hover,a:active {
+color:#F16D6D;
+text-decoration:none;
+}
+font.emphasis{
+	color: red;
+	font-size: 18px;
+	line-height: 22px;
+}

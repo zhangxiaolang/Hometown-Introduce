@@ -1,0 +1,13 @@
+#content{
+	width: 1050px;
+	height: auto;
+	margin: auto;
+	margin-top: 5px;
+	border: 0px solid;
+}
+p.home{
+	font-family: 楷体;
+	color: #332929;
+	font-size: 18px;
+	line-height: 22px;
+}
